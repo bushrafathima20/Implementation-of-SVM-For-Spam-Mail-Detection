@@ -19,6 +19,7 @@ To write a program to implement the SVM For Spam Mail Detection.
 Program to implement the SVM For Spam Mail Detection..
 Developed by: BUSHRA FATHIMA I
 RegisterNumber: 212225040051
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
